@@ -1,6 +1,8 @@
 # Uniform変数を使ったアニメーション
 三角形を動かしてみましょう。
 
+https://webglstudy.github.io/03_uniform/
+
 ![結果画像](result.png)
 
 # 課題
